@@ -2,3 +2,4 @@ pyTelegramBotAPI==4.12.0
 flask==2.3.2
 psutil==5.9.5
 requests==2.31.0
+gunicorn==20.1.0
